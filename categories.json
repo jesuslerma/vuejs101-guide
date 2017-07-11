@@ -1,0 +1,5 @@
+[
+  { "name": "electronics", "selected": false },
+  { "name": "clothing", "selected": false},
+  { "name": "home", "selected": false }
+]
